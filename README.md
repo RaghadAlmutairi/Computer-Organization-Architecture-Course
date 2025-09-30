@@ -57,13 +57,13 @@ MOV input, 7
 CALL check_valid
 CALL convert_octal_to_decimal
 PRINT result
-
+```
 
 ## 🛠️ Tools & Technologies
 
-- **Assembly Language (MASM/NASM style)**
+- Assembly Language (MASM/NASM style)
 
-- **Cache simulator (for experiments)** 
+- Cache simulator (for experiments)
 
 
 ## ✨ Author
